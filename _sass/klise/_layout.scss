@@ -267,7 +267,7 @@
     width: 96px;
     color: $black;
     font-weight: 700;
-    padding-right: 10px;
+    padding-right: 15px;
     padding-top: 4px;
 
     @include media-query($on-mobile) {
@@ -282,6 +282,7 @@
     font-size: $base-font-size + 4px;
     font-weight: bolder;
     letter-spacing: 0.1px;
+    text-decoration: underline;
 
     a {
       color: $text-base-color;
