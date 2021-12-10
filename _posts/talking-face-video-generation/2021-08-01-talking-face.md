@@ -11,6 +11,7 @@ tag:
 I had the opportunity to do a research internship at INRIA, a french research institute. I was working on talking face video generation using GANs and CNNs.
 
 ![Talking Face Generation example](/assets/talking-face/talking-face.gif)
+
 *Video puppeteering, on the left the driving video and on the right the generated video*
 
 I wrote an article where I summarized state-of-the-art research in video generation. I then compared them on the same data. When the code wasn't available I reimplemented the code or part of the code in PyTorch.
