@@ -31,6 +31,8 @@ We used SAC and PPO as our algorithms using stable-baselines3. We also used [wan
 
 We also tried our first model in the simulation which, to our surprise, worked pretty well.
 
+You can find the code [on github here](https://github.com/Armandpl/tuatara).
+
 ## Challenges
 
 One of the biggest challenge is that our model needs to be able to adapt to any road. The competition is not always in the same place and it's obviously different from where we train.
