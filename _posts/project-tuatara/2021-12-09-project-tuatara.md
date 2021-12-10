@@ -27,7 +27,9 @@ Our second approach was to train the car in the donkey gym environnement.
 
 ![Road Regression](/assets/project-tuatara/donkey-gym.gif)
 
-We used SAC and PPO as our algorithms. We also used [wandb](https://docs.wandb.com/) to log experiments.
+We used SAC and PPO as our algorithms using stable-baselines3. We also used [wandb](https://docs.wandb.com/) to log experiments.
+
+We also tried our first model in the simulation which, to our surprise, worked pretty well.
 
 ## Challenges
 
