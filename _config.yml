@@ -26,7 +26,7 @@ author:
 url: "https://rian-t.github.io/" #
 baseurl:
 permalink: /:title/
-google_analytics: G-JCC81H2C1Z
+google_analytics: # leave it blank if not wish
 fb_appid:
 
 # Collection setting
