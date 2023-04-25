@@ -12,14 +12,13 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Rian Touchent # author name
   bio: >- # tell to the world
-    MSc student in Artificial Intelligence at CentraleSupélec. I like Deep Learning,
-    Computer Vision, Reinforcement Learning and Software Engineering. Previously intern at 
-    <a href="https://team.inria.fr/stars/fr/" target="_blank" rel="noopener">INRIA</a>.
+    PhD student in NLP / AI @ <a href="https://team.inria.fr/stars/fr/" target="_blank" rel="noopener">Inria Paris - Team ALMAnaCH</a>. Working on information extraction for clinical reports using LLMs. Previously intern at 
+    <a href="https://team.inria.fr/stars/fr/" target="_blank" rel="noopener">Inria Sophia-Antipolis - Team STARS</a>.
   username: Rian-T # general username
   github: Rian-T # github username
-  twitter: rian_tch # twitter username
+  twitter: riantouchent # twitter username
   #facebook: facebook_username # facebook username
-  email: riantouchent@gmail.com # email adress
+  email: "{firstname}.{lastname}@inria.fr" # email adress
   avatar: /assets/img/avatar.jpeg # change with your own avatar
 
 # URL settings
