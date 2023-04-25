@@ -86,7 +86,7 @@ To ensure reliability, we averaged over 10 evaluations with different seeds.
 
 ### Results 
 
-| Style        | Dataset | Score | CamemBERT         | CamemBERT             |
+| Style        | Dataset | Score | CamemBERT         | CamemBERT-bio         |
 | :----------- | :------ | :---- | :---------------: | :-------------------: |
 | Clinical     | CAS1    | F1    | 70\.50 ~~±~~ 1.75 | **73\.03 ~~±~~ 1.29** |
 |              |         | P     | 70\.12 ~~±~~ 1.93 | **71\.71 ~~±~~ 1.61**     |
